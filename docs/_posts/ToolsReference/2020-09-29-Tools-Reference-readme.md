@@ -7,3 +7,4 @@ title: Tools Commonly Used
 - [Excel Reference]({% link _posts/ToolsReference/ExcelRelated/2020-09-29-Excel-Related-readme.md %})
 
 # Introduction
+This section contains a reference to set of tools that are frequently used in our day-to-day work. Since these tools can be used across various softwares, and various apps they are grouped here. These here have some reference manuals as well to setup systems etc.

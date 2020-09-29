@@ -9,6 +9,7 @@ tags: [excel, uuid]
 
 - [Excel Tips useful for Cloud Platform](#excel-tips-useful-for-cloud-platform)
   - [Generate UUID in excel for CAPM](#generate-uuid-in-excel-for-capm)
+  - [Macros Tips and Tricks]({% link _posts/ToolsReference/ExcelRelated/2020-09-29-Macros-Related-readme.md %})
 
 
 ## Generate UUID in excel for CAPM
