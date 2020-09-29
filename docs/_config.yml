@@ -20,7 +20,7 @@
 
 title: New Technology Reference Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is a reference for New Technologies.
+  This blog is a reference for New Technologies. It provides reference guides, quick cut-paste snippets and sample apps
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
