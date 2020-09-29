@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git and Github Reference Guide
+title: Git Quick Reference
 categories: [Tools Reference, Git Reference]
 tags: [github,git,cheatsheet]
 ---
