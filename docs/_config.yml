@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blog to explore and understand new technologies. This is hosted on github pages
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'chatenrk.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:title
 
 # Build settings
 # theme: minima
