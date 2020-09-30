@@ -27,3 +27,9 @@ See [Requirements](https://jekyllrb.com/docs/installation/#requirements) for gui
 5. Build the site and make it available on a local server <br>
    `bundle exec jekyll serve`
 6. Browse to [http://localhost:4000](http://localhost:4000)
+
+# Blogs
+
+| Blog | Link |
+| ---- | ---- |
+|      |      |
