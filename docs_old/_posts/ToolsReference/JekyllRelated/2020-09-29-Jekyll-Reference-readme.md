@@ -30,6 +30,6 @@ See [Requirements](https://jekyllrb.com/docs/installation/#requirements) for gui
 
 # Blogs
 
-| Blog | Link |
-| ---- | ---- |
-|      |      |
+| Blog                    | Link                                                               |
+| ----------------------- | ------------------------------------------------------------------ |
+| Clean Blog Jekyll Theme | https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll |
